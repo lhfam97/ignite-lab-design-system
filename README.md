@@ -64,12 +64,20 @@ yarn test-storybook
 
 
 <br>
-
+https://user-images.githubusercontent.com
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
 
 ---
+
+<a href="https://lhfam97.github.io/ignite-lab-design-system/" target="_blank">
+<img src="https://user-images.githubusercontent.com/71772559/178192066-d52e0cf7-906e-4baa-80f3-4b49dde153c0.png" />
+</a>
+
+<a href="https://www.figma.com/file/0yTTAW5roa8h7Gh9bMZ4GH/Ignite-Lab-Design-System?node-id=0%3A1" target="_blank">
+<img src="https://user-images.githubusercontent.com/71772559/178192253-4fe4757c-de57-4878-a38c-a483c25670b1.png" />
+</a>
 
 Feito com :purple_heart: by [Luís Machado](https://github.com/lhfam97)
 
