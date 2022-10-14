@@ -13,9 +13,9 @@
 
 </p>
 
-<img src="https://user-images.githubusercontent.com/71772559/178170317-063200c0-4605-491a-80df-421ae6eef864.png" alt="Terminal com testes" align="center" />
+<img src="./github/images/code.png" alt="Terminal com testes" align="center" />
 
-<img src="https://user-images.githubusercontent.com/71772559/178170317-063200c0-4605-491a-80df-421ae6eef864.png" alt="storybook" align="center" />
+<img src="./github/images/storybook.png" alt="storybook" align="center" />
 
 ## ✨ Tecnologias e Bibliotecas
 
