@@ -35,7 +35,7 @@ O Ignite Lab Design System foi um projeto desenvolvido no evento Ignite Lab 03 d
 ## 🚀 Como executar
 
 Para executar o storybook:
-
+teste
 ```bash
 # Abra um terminal e copie este repositório com o comando
 git clone https://github.com/lhfam97/ignite-lab-design-system/
